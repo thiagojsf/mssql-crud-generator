@@ -1,0 +1,1 @@
+# mssql-crud-generator
